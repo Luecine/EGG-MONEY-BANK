@@ -84,11 +84,11 @@
 ## About The Project
 
 <h3>Bulletin Board</h3>
-[![bulletin][product-screenshot]]
+![bulletin][product-screenshot]
 <h3>Banking</h3>
-[![banking][product-screenshot1]]
+![banking][product-screenshot1]
 
-We created a vulnerable web banking service to test out various web penetration methods like SQL injection, cross site scripting, request forgery and so on.
+We created a vulnerable web banking service to test out various web penetration methods like SQL injection, cross site scripting, request forgery... and so on.
 
 This project is developed based on <a>https://github.com/rewanthtammana/Damn-Vulnerable-Bank</a>, kindly provided by Rewanth Tammana and his team.
 
@@ -168,8 +168,8 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 - [ ] Add Additional Templates w/ Examples
 - [ ] Add "components" document to easily copy & paste sections of the readme
 - [ ] Multi-language Support
-    - [ ] Chinese
-    - [ ] Spanish
+    - [O] English
+    - [O] Korean
 
 See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a full list of proposed features (and known issues).
 
@@ -265,3 +265,4 @@ Use this space to list resources you find helpful and would like to give credit 
 [Bootstrap-url]: https://getbootstrap.com
 [JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
 [JQuery-url]: https://jquery.com 
+
