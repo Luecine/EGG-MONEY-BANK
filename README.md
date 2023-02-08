@@ -84,8 +84,10 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
+<h1>Bulletin Board 게시판 기능</h1>
 ![product-screenshot]
-![product-screenshot]
+<h1>Banking 은행 기능</h1>
+![product-screenshot1]
 
 There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
 
