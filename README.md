@@ -84,9 +84,9 @@
 ## About The Project
 
 <h3>Bulletin Board</h3>
-[![Bulletin]][product-screenshot]
+ <img src="images/board.png">
 <h3>Banking</h3>
-[![Banking]][product-screenshot1]
+ <img src="images/banking.png">
 
 We created a vulnerable web banking service to test out various web penetration methods like SQL injection, cross site scripting, request forgery... and so on.
 
