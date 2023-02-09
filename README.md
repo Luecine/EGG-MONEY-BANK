@@ -101,6 +101,7 @@ This section lists all major frameworks/libraries used to develop this project.
 
 * [![Node][Node.js]][Node-url]
 * [![Mysql][MySql]][Mysql-url]
+* [![Express][Expresss]][Express-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -246,8 +247,10 @@ Huge Thanks to Neil (https://github.com/othneildrew/Best-README-Template)
 [product-screenshot1]: images/board.png
 [Node.js]: https://img.shields.io/badge/node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=green
 [MySql]: https://img.shields.io/badge/mysql-000000?style=for-the-badge&logo=mysql&logoColor=skyblue
+[Expresss]: https://img.shields.io/badge/express-eeeeee?style=for-the-badge&logo=express&logoColor=black
 [Node-url]: https://nodejs.org/en/
 [Mysql-url]: https://www.mysql.com/
+[Express-url]: https://expressjs.com/
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [React-url]: https://reactjs.org/
 [Vue.js]: https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D
