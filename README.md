@@ -135,13 +135,12 @@ This is a list of things you need to set up a server and how to install them._
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+This is some examples of how this project can be used. 
 
-_For more examples, please refer to the [Documentation](https://example.com)_
+_For more examples, please refer to the [eggmoneybank](http://www.eggmoneybank.com)_
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
