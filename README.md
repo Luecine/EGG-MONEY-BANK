@@ -136,11 +136,19 @@ This is a list of things you need to set up a server and how to install them._
   source 'database.sql'
   ```
 
-5. set up db config in WEB
+5. set up config in WEB
   ```sh
+  edit www in "bin" folder
   edit db.js in "middlewares" folder
+  edit ipcheck.js in "middlewares" folder
+  edit config.js in root directory
   ```
 
+5. set up config in API
+  ```sh
+  edit www in "bin" folder
+  edit config.json in "middlewares" folder
+  ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -149,6 +157,20 @@ This is a list of things you need to set up a server and how to install them._
 ## Usage
 
 This is some examples of how this project can be used. 
+
+<h3>Notice Board</h3>
+ <img src="images/notice.png">
+<h3>QnA</h3>
+ <img src="images/qna.png">
+<h3>Banking</h3>
+ <img src="images/banking.png">
+<h3>Beneficiary</h3>
+ <img src="images/benef.png">
+<h3>Transactions List</h3>
+ <img src="images/list.png">
+<h3>Transaction</h3>
+ <img src="images/transaction.png">
+
 
 _For more examples, please refer to the [eggmoneybank](http://www.eggmoneybank.com)_
 
@@ -202,9 +224,8 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
-
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Seperate WEB Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Seperate API Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
