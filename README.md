@@ -134,8 +134,14 @@ This is a list of things you need to set up a server and how to install them._
 
 4. set up mysql using the script "database.sql"
   ```sh
-  mysq
+  source 'database.sql'
   ```
+
+5. set up db config in WEB
+  ```sh
+  edit db.js in "middlewares" folder
+  ```
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -194,7 +200,6 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-
 <!-- CONTACT -->
 ## Contact
 
@@ -209,7 +214,9 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/yo
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
+Check out DVBA (https://github.com/rewanthtammana/Damn-Vulnerable-Bank)
+
+Huge Thanks to Neil (https://github.com/othneildrew/Best-README-Template) 
 
 * [Choose an Open Source License](https://choosealicense.com)
 * [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
