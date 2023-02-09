@@ -100,7 +100,7 @@ This project is developed based on <a>https://github.com/rewanthtammana/Damn-Vul
 This section lists all major frameworks/libraries used to develop this project.
 
 * [![Node][Node.js]][Node-url]
-* [![Node][Node.js]][Node-url]
+* [![Mysql][Node.js]][Node-url]
 * [![Node][Node.js]][Node-url]
 * [![Node][Node.js]][Node-url]
 
@@ -130,6 +130,11 @@ This is a list of things you need to set up a server and how to install them._
 3. start npm in each WEB, API
   ```sh
   npm start
+  ```
+
+4. set up mysql using the script "database.sql"
+  ```sh
+  mysq
   ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
